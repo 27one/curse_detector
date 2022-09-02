@@ -102,7 +102,9 @@
     trainer.evaluate(eval_dataset = test_data)
     ```
     
-    ![Untitled](KcELECTRA%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%AD%E1%86%A8%E1%84%89%E1%85%A5%E1%86%AF%20%E1%84%90%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%B5%20App%20c1434947e1ab4283a783a6a34818f83c/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/68226421/188041645-ffdd32c1-b1f0-4e5c-b65a-ac2bb65b7bc3.png)
+
+
     
 - 모델 output 확인
     
@@ -152,9 +154,8 @@
     
     ### Output ex.
     
-    ![Untitled](KcELECTRA%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%AD%E1%86%A8%E1%84%89%E1%85%A5%E1%86%AF%20%E1%84%90%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%B5%20App%20c1434947e1ab4283a783a6a34818f83c/Untitled%201.png)
-    
-    ![Untitled](KcELECTRA%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%AD%E1%86%A8%E1%84%89%E1%85%A5%E1%86%AF%20%E1%84%90%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%B5%20App%20c1434947e1ab4283a783a6a34818f83c/Untitled%202.png)
+ ![Untitled 1](https://user-images.githubusercontent.com/68226421/188041639-b49c15fa-356f-40d3-8bf9-e4fef1597527.png)
+![Untitled 2](https://user-images.githubusercontent.com/68226421/188041642-89d020dc-9ce7-41af-b7f6-602c511f63f9.png)
     
 
 ## Model Serving & Deployment on Web
@@ -435,8 +436,8 @@ if __name__ == '__main__':
 
 [https://lostark.game.onstove.com/Community/Free/Views/2267182?page=5505&searchtype=0&searchtext=&ordertype=like&communityNo=541](https://lostark.game.onstove.com/Community/Free/Views/2267182?page=5505&searchtype=0&searchtext=&ordertype=like&communityNo=541)
 
-![KakaoTalk_20220812_111731883.png](KcELECTRA%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%AD%E1%86%A8%E1%84%89%E1%85%A5%E1%86%AF%20%E1%84%90%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%B5%20App%20c1434947e1ab4283a783a6a34818f83c/KakaoTalk_20220812_111731883.png)
+![KakaoTalk_20220812_111731883](https://user-images.githubusercontent.com/68226421/188041626-712d10a5-331e-41df-a863-f0ecd57654f1.png)
+![KakaoTalk_20220812_111731883_01](https://user-images.githubusercontent.com/68226421/188041630-5c7000ea-4058-426e-8be1-e20de8572e36.png)
+![KakaoTalk_20220812_111731883_02](https://user-images.githubusercontent.com/68226421/188041638-e6227240-176b-4cf2-b3fd-f3c2de78d4a1.png)
 
-![KakaoTalk_20220812_111731883_01.png](KcELECTRA%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%AD%E1%86%A8%E1%84%89%E1%85%A5%E1%86%AF%20%E1%84%90%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%B5%20App%20c1434947e1ab4283a783a6a34818f83c/KakaoTalk_20220812_111731883_01.png)
 
-![KakaoTalk_20220812_111731883_02.png](KcELECTRA%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%AD%E1%86%A8%E1%84%89%E1%85%A5%E1%86%AF%20%E1%84%90%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%B5%20App%20c1434947e1ab4283a783a6a34818f83c/KakaoTalk_20220812_111731883_02.png)
